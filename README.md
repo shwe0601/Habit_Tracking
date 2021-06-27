@@ -77,4 +77,4 @@ response = requests.delete(url=delete_endpoint, headers=headers)
 ```
 ## Lessons
 1. Using GET, PUT, DELETE commands
-2. Pixela API is sleek
+2. Used Pixela API
