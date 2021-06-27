@@ -2,7 +2,7 @@
 
 ## Problem: Make a habit traking tool using Pixela API
 
-<img src="Screenshots/Screenshot.png">
+<img src="C:\Users\B SHWETA\Pictures\Screenshots">
 ## Solutions
 
 0. All the constants you need
