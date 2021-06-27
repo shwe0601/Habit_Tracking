@@ -2,7 +2,7 @@
 
 ## Problem: Make a habit traking tool using Pixela API
 
-![GitHub Logo](/Screenshots/Screenshot.png)
+![Screenshot](/Screenshots/Screenshot.png)
 ## Solutions
 
 0. All the constants you need
