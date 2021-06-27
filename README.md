@@ -15,7 +15,7 @@ GRAPH_ID = "graph0" # Create any graph ID
 graph_endpoint = f"{PIXELA_ENDPOINT}/{USERNAME}/graphs"
 get_graph_endpoint = f"{graph_endpoint}/{GRAPH_ID}"
 
-ask_quantity = input("How many km did you walk today? ")
+ask_quantity = input("How many km cycling did you do today? ")
 today = datetime.now()
 date = today.strftime("%Y%m%d")
 
