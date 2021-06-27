@@ -2,7 +2,9 @@
 
 ## Problem: Make a habit traking tool using Pixela API
 
+
 ## Solutions
+![](Screenshots/Screenshot%20.png)
 
 0. All the constants you need
 ```
