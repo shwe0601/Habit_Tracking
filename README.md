@@ -2,7 +2,6 @@
 
 ## Problem: Make a habit traking tool using Pixela API
 
-![Screenshot](Screenshot.png)
 ## Solutions
 
 0. All the constants you need
